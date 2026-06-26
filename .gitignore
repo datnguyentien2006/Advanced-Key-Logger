@@ -216,3 +216,10 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Project specific: keys, logs, and decrypted data
+*.txt
+!README.md
+!LICENSE
+!requirements.txt
+*.log
